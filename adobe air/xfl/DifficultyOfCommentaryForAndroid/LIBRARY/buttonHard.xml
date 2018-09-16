@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="buttonHard" itemID="5b9c73f0-0000036d" lastModified="1537056784">
+  <timeline>
+    <DOMTimeline name="buttonHard">
+      <layers>
+        <DOMLayer name="レイヤー_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 1078|16432 1078!16432 1078|16432 7307!16432 7307|0 7307!0 7307|0 1078"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText left="23.9" width="96.2" height="148.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.22056579589844" d="2.22056579589844" tx="4.5" ty="4.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>難</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-32" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-32" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="-83.6" width="311.2" height="148.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="473.85" ty="112.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HARD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-32" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,134 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="960" height="600" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="92.3090013472118" vanishingPoint3DX="480" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="509F1EC3AF113E469F6B312A6A44B80D">
+     <symbols>
+          <Include href="buttonEasy.xml" loadImmediate="false" itemID="5b9c7408-00000376" lastModified="1537056798"/>
+          <Include href="buttonHard.xml" loadImmediate="false" itemID="5b9c73f0-0000036d" lastModified="1537056784"/>
+          <Include href="buttonNormal.xml" loadImmediate="false" itemID="5b9c73fa-00000372" lastModified="1537056792"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="シーン 1">
+               <layers>
+                    <DOMLayer name="レイヤー_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-361.7" width="303.2" height="258.4" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.42060852050781" d="1.42060852050781" tx="562.7" ty="-24.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>津軽弁</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="5" lineSpacing="-39" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="5" lineSpacing="-39" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>解説</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="5" lineSpacing="-39" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="5" lineSpacing="-39" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText left="-563.7" width="707.2" height="148.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="0.619827270507813" d="0.619827270507813" tx="392.25" ty="324.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>解説難易度選択</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="5" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="5" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText left="-315.8" width="775.6" height="382.1" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="0.3985595703125" d="0.3985595703125" tx="229.3" ty="417.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>DIFFICULTY&#xD;OF&#xD;COMMENTARY</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-32" lineHeight="148.7" size="96" bitmapSize="1920" face="Kan415TyposStd-Regular"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="buttonHard" name="buttonHard">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" tx="509.95" ty="20.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="410.8" y="182.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="buttonNormal" name="buttonNormal">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" tx="509.95" ty="195.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="410.8" y="187.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="buttonEasy" name="buttonEasy">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" tx="509.95" ty="382.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="410.8" y="179.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <persistentData>
+          <PD n="com.air.artemis.airdest" v="DifficultyOfCommentaryForAndroid.apk"/>
+          <PD n="com.air.oldTargetPlatform" v="Android"/>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\Monster\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="com.air.artemis.pubair" v="true"/>
+          <PD n="com.air.sdk.path" v="C:\Users\Monster\AppData\Local\FlashDevelop\Apps\ascsdk\29.0.0"/>
+          <PD n="com.air.agistri.proctype" v="arm"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="flash.swf.basename" v="DifficultyOfCommentaryForAndroid"/>
+          <PD n="com.air.agistri.runtimetype" v="embed"/>
+          <PD n="com.air.agistri.publishtype" v="release"/>
+          <PD n="com.air.agistri.hostip" v="デフォルト"/>
+          <PD n="flash.fla.filepath" v="V:/AIR_project/DifficultyOfCommentary/xfl/DifficultyOfCommentaryForAndroid/DifficultyOfCommentaryForAndroid.xfl"/>
+          <PD n="swf.folder.path" v="V:/AIR_project/DifficultyOfCommentary/xfl/"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="8881" publishTime="1537096633"/>
+          <PublishItem publishSize="9103" publishTime="1537096624"/>
+          <PublishItem publishSize="8880" publishTime="1537066021"/>
+          <PublishItem publishSize="9102" publishTime="1537065893"/>
+          <PublishItem publishSize="8880" publishTime="1537062034"/>
+          <PublishItem publishSize="9103" publishTime="1537061969"/>
+          <PublishItem publishSize="7780" publishTime="1537061712"/>
+     </publishHistory>
+</DOMDocument>
