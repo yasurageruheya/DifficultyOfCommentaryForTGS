@@ -118,11 +118,22 @@
           <PD n="com.air.agistri.runtimetype" v="embed"/>
           <PD n="com.air.agistri.publishtype" v="release"/>
           <PD n="com.air.agistri.hostip" v="デフォルト"/>
-          <PD n="flash.fla.filepath" v="V:/AIR_project/DifficultyOfCommentary/xfl/DifficultyOfCommentaryForAndroid/DifficultyOfCommentaryForAndroid.xfl"/>
-          <PD n="swf.folder.path" v="V:/AIR_project/DifficultyOfCommentary/xfl/"/>
+          <PD n="flash.fla.filepath" v="E:/nodejsProject/DifficultyOfCommentaryForTGS/adobe air/xfl/DifficultyOfCommentaryForAndroid/DifficultyOfCommentaryForAndroid.xfl"/>
+          <PD n="swf.folder.path" v="E:/nodejsProject/DifficultyOfCommentaryForTGS/adobe air/xfl/"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="9466" publishTime="1537142500"/>
+          <PublishItem publishSize="9796" publishTime="1537142492"/>
+          <PublishItem publishSize="9278" publishTime="1537142460"/>
+          <PublishItem publishSize="9274" publishTime="1537142439"/>
+          <PublishItem publishSize="9275" publishTime="1537142316"/>
+          <PublishItem publishSize="9274" publishTime="1537142280"/>
+          <PublishItem publishSize="9256" publishTime="1537142214"/>
+          <PublishItem publishSize="9420" publishTime="1537141713"/>
+          <PublishItem publishSize="9746" publishTime="1537141621"/>
+          <PublishItem publishSize="9724" publishTime="1537141572"/>
+          <PublishItem publishSize="9102" publishTime="1537141514"/>
           <PublishItem publishSize="8881" publishTime="1537096633"/>
           <PublishItem publishSize="9103" publishTime="1537096624"/>
           <PublishItem publishSize="8880" publishTime="1537066021"/>
