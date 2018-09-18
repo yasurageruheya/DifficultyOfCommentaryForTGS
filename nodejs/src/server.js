@@ -11,22 +11,8 @@ app.use(bodyParser.json());
 
 app.use((req, res, next) =>
 {
-    const host = req.headers.host;
     const origin = req.headers.origin;
-
-    // console.log("\nreq.headers ================================");
-    // console.log(req.headers);
-	/*
-    const target = req.ip;
-    console.log("target : " + target);
-    for(let p in target)
-    {
-    	try {console.log(p + " : " + target[p]); }
-	    catch(e){}
-    }
-    */
-
-    // if(checkDomain(host))
+    
     if(checkDomain(origin))
     {
         res.header("Access-Control-Allow-Origin", origin);
@@ -40,9 +26,6 @@ const checkDomain = (origin) =>
 {
 	switch(origin)
 	{
-		case "http://192.168.0.9:3000":
-		case "http://192.168.0.20:3000":
-		case "http://192.168.0.10:3000":
         case "http://192.168.43.155:3000":
         case "http://192.168.43.0:3000":
 		case "http://localhost:3000":
@@ -70,7 +53,7 @@ app.post("/sendLog", (request, response) =>
 {
 	allLog.push(request.body.message);
 	prevLog.push(request.body.message);
-	console.log("request.body.message : " + request.body.message);
+	console.log("message : " + request.body.message);
 	response.send("request received");
 });
 
